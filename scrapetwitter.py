@@ -4,10 +4,10 @@ from tweepy import OAuthHandler # Used for authentication
 from tweepy import Cursor # Used to perform pagination
 import sys
 
-cons_key = "udksI0pkzbReaBn91BDbotucU"
-cons_secret = "2Jlb6QcOGJhfvc1ZmHe6riWHuybfO9E30UbIlU0rtBddNHuZPF"
-acc_token = "1488591768799088641-4fBxTPYeGxJDr1wq9KnzaSxD3bJ46n"
-acc_secret = "XvqiyychFW79iRaByQi2g2foqIIcvcewvxsaSjoDFZkuO"
+cons_key = "HIDDEN"
+cons_secret = "HIDDEN"
+acc_token = "HIDDEN"
+acc_secret = "HIDDEN"
 
 # (1). Athentication Function
 def get_twitter_auth():
